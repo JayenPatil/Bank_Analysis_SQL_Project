@@ -166,7 +166,7 @@ This project demonstrates practical SQL skills through database design, data exp
 
 Aspiring Data Analyst
 
-🔗 LinkedIn: www.linkedin.com/in/jayen-patil
+🔗 LinkedIn: https://www.linkedin.com/in/jayen-patil
 
 💻 GitHub: https://github.com/JayenPatil
 
