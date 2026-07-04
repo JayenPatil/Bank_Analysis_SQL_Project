@@ -1,0 +1,101 @@
+branch_id,branch_name,manager_name,city,state
+BR001,Bank of India - Bengaluru,Aryan Maharaj,Bengaluru,Karnataka
+BR002,Axis Bank - Jaipur,Udant Dewan,Jaipur,Rajasthan
+BR003,Indian Bank - Chennai,Gagan Sami,Chennai,Tamil Nadu
+BR004,IDFC FIRST Bank - Ranchi,Ayushman Chander,Ranchi,Jharkhand
+BR005,State Bank of India - Bhubaneswar,Viraj Tiwari,Bhubaneswar,Odisha
+BR006,Axis Bank - New Delhi,Rushil Saini,New Delhi,Delhi
+BR007,Union Bank of India - Gurugram,Saumya Mall,Gurugram,Haryana
+BR008,Indian Bank - Kozhikode,Nathaniel Sami,Kozhikode,Kerala
+BR009,Axis Bank - Jamshedpur,Arunima Dugal,Jamshedpur,Jharkhand
+BR010,Yes Bank - Guwahati,Gayathri Chaudry,Guwahati,Assam
+BR011,Bank of India - Nagpur,Lajita Chatterjee,Nagpur,Maharashtra
+BR012,Kotak Mahindra Bank - Cuttack,Hemangini Lalla,Cuttack,Odisha
+BR013,Yes Bank - Coimbatore,Tripti Yadav,Coimbatore,Tamil Nadu
+BR014,HDFC Bank - Lucknow,Kritika Brar,Lucknow,Uttar Pradesh
+BR015,Punjab National Bank - Patna,Janaki Handa,Patna,Bihar
+BR016,Kotak Mahindra Bank - Gwalior,Chakradev Kari,Gwalior,Madhya Pradesh
+BR017,Union Bank of India - Rajkot,Fariq Kaul,Rajkot,Gujarat
+BR018,HDFC Bank - Mangalore,Lajita Mall,Mangalore,Karnataka
+BR019,IndusInd Bank - Jamshedpur,Janya Gaba,Jamshedpur,Jharkhand
+BR020,IDFC FIRST Bank - Haridwar,Isha Kadakia,Haridwar,Uttarakhand
+BR021,HDFC Bank - Kozhikode,Ekbal Garg,Kozhikode,Kerala
+BR022,Yes Bank - Surat,Nihal Shere,Surat,Gujarat
+BR023,IndusInd Bank - Kolkata,Anamika Kanda,Kolkata,West Bengal
+BR024,Canara Bank - Amritsar,Daksh Karnik,Amritsar,Punjab
+BR025,Indian Bank - Udaipur,Diya Rattan,Udaipur,Rajasthan
+BR026,Punjab National Bank - Indore,Dominic Kakar,Indore,Madhya Pradesh
+BR027,Indian Bank - Indore,Simon Tata,Indore,Madhya Pradesh
+BR028,Federal Bank - Jodhpur,Tara Dhar,Jodhpur,Rajasthan
+BR029,Union Bank of India - New Delhi,Liam Koshy,New Delhi,Delhi
+BR030,Bank of Baroda - Amritsar,Priya Rastogi,Amritsar,Punjab
+BR031,Federal Bank - Gaya,Theodore Devi,Gaya,Bihar
+BR032,Indian Bank - Ranchi,Gavin Batta,Ranchi,Jharkhand
+BR033,Axis Bank - Lucknow,Michael Dutta,Lucknow,Uttar Pradesh
+BR034,Canara Bank - Vadodara,Devansh Rajan,Vadodara,Gujarat
+BR035,Axis Bank - Jaipur,Upadhriti Wadhwa,Jaipur,Rajasthan
+BR036,Axis Bank - Bilaspur,Advay Contractor,Bilaspur,Chhattisgarh
+BR037,Federal Bank - Margao,Harini Choudhury,Margao,Goa
+BR038,Kotak Mahindra Bank - Guwahati,Radhika Dugar,Guwahati,Assam
+BR039,Bank of India - Coimbatore,Aarush Lall,Coimbatore,Tamil Nadu
+BR040,Bank of India - Jamshedpur,Yashica Cherian,Jamshedpur,Jharkhand
+BR041,Federal Bank - Bilaspur,Yashica Issac,Bilaspur,Chhattisgarh
+BR042,Punjab National Bank - Bilaspur,Kashvi Edwin,Bilaspur,Chhattisgarh
+BR043,Union Bank of India - Amritsar,Ekiya Suresh,Amritsar,Punjab
+BR044,Yes Bank - Panaji,Isaac Patil,Panaji,Goa
+BR045,ICICI Bank - Ahmedabad,Wriddhish Bhardwaj,Ahmedabad,Gujarat
+BR046,Canara Bank - Nizamabad,Farhan Chada,Nizamabad,Telangana
+BR047,Canara Bank - Dehradun,Ekapad Walia,Dehradun,Uttarakhand
+BR048,Union Bank of India - Gaya,Kabir Soman,Gaya,Bihar
+BR049,IndusInd Bank - Jodhpur,Alka Wable,Jodhpur,Rajasthan
+BR050,Indian Bank - Pune,Siddharth Zacharia,Pune,Maharashtra
+BR051,Yes Bank - Jamshedpur,Devika Rastogi,Jamshedpur,Jharkhand
+BR052,Kotak Mahindra Bank - Lucknow,Raksha Varughese,Lucknow,Uttar Pradesh
+BR053,Bank of Baroda - Bhubaneswar,Jai Kota,Bhubaneswar,Odisha
+BR054,Union Bank of India - Thane,Devansh Nigam,Thane,Maharashtra
+BR055,Federal Bank - Nizamabad,Victor Kannan,Nizamabad,Telangana
+BR056,IndusInd Bank - Hubli,Ekavir Bhargava,Hubli,Karnataka
+BR057,ICICI Bank - Gurugram,Ekansh Balay,Gurugram,Haryana
+BR058,Union Bank of India - Indore,Ekavir Varkey,Indore,Madhya Pradesh
+BR059,IDFC FIRST Bank - Gurugram,Arya Sunder,Gurugram,Haryana
+BR060,State Bank of India - Ghaziabad,Kevin Solanki,Ghaziabad,Uttar Pradesh
+BR061,Federal Bank - Hubli,Urvashi Ray,Hubli,Karnataka
+BR062,State Bank of India - Kolkata,Girindra Chatterjee,Kolkata,West Bengal
+BR063,HDFC Bank - Jalandhar,Irya Sampath,Jalandhar,Punjab
+BR064,IndusInd Bank - Delhi,Unni Bhagat,Delhi,Delhi
+BR065,ICICI Bank - New Delhi,Darsh Rau,New Delhi,Delhi
+BR066,Kotak Mahindra Bank - Panaji,Ikbal Kothari,Panaji,Goa
+BR067,Axis Bank - Faridabad,Ranveer Yadav,Faridabad,Haryana
+BR068,Bank of India - Ranchi,Logan Sami,Ranchi,Jharkhand
+BR069,Indian Bank - Howrah,Arya Shere,Howrah,West Bengal
+BR070,Federal Bank - Bhopal,Faqid Savant,Bhopal,Madhya Pradesh
+BR071,HDFC Bank - Faridabad,Chandresh Zachariah,Faridabad,Haryana
+BR072,HDFC Bank - Amritsar,Girik Khalsa,Amritsar,Punjab
+BR073,IDFC FIRST Bank - Lucknow,Niharika Sunder,Lucknow,Uttar Pradesh
+BR074,IDFC FIRST Bank - Ranchi,Tanay Rattan,Ranchi,Jharkhand
+BR075,HDFC Bank - Amritsar,Nitesh Raghavan,Amritsar,Punjab
+BR076,HDFC Bank - Surat,Madhavi Lanka,Surat,Gujarat
+BR077,HDFC Bank - Vadodara,Bhavika Sampath,Vadodara,Gujarat
+BR078,Kotak Mahindra Bank - Gurugram,Mohammed Gupta,Gurugram,Haryana
+BR079,Union Bank of India - Panaji,Teerth Bhardwaj,Panaji,Goa
+BR080,Axis Bank - Salem,Dipta Bhandari,Salem,Tamil Nadu
+BR081,Axis Bank - Margao,Vansha Thakkar,Margao,Goa
+BR082,Indian Bank - Bengaluru,Dakshesh Trivedi,Bengaluru,Karnataka
+BR083,Canara Bank - Cuttack,Quincy Biswas,Cuttack,Odisha
+BR084,IndusInd Bank - Cuttack,Wahab Raval,Cuttack,Odisha
+BR085,State Bank of India - Ahmedabad,Yatin Baral,Ahmedabad,Gujarat
+BR086,Yes Bank - Gaya,Oni Virk,Gaya,Bihar
+BR087,Axis Bank - Mysuru,Advika Jayaraman,Mysuru,Karnataka
+BR088,Bank of Baroda - Kozhikode,William Lanka,Kozhikode,Kerala
+BR089,ICICI Bank - Salem,Karan Mital,Salem,Tamil Nadu
+BR090,Axis Bank - Udaipur,Diya Bora,Udaipur,Rajasthan
+BR091,Yes Bank - Delhi,Tara Chaudhry,Delhi,Delhi
+BR092,State Bank of India - Ranchi,Tanay Toor,Ranchi,Jharkhand
+BR093,HDFC Bank - Ranchi,Kevin Palla,Ranchi,Jharkhand
+BR094,Canara Bank - Amritsar,Yash Pingle,Amritsar,Punjab
+BR095,Axis Bank - Margao,Nakul Sarma,Margao,Goa
+BR096,ICICI Bank - Patna,Abhiram Mistry,Patna,Bihar
+BR097,Canara Bank - Patna,Krish Lalla,Patna,Bihar
+BR098,Kotak Mahindra Bank - Udaipur,Hredhaan Dugal,Udaipur,Rajasthan
+BR099,ICICI Bank - Cuttack,Baghyawati Kade,Cuttack,Odisha
+BR100,Axis Bank - Trivandrum,Samar Lalla,Trivandrum,Kerala

@@ -1,0 +1,1001 @@
+merchant_id,merchant_name,category,city,state
+MER00001,More Supermarket 1,Supermarket,Mysuru,Karnataka
+MER00002,Reliance Digital 2,Electronics,Bhopal,Madhya Pradesh
+MER00003,MedPlus 3,Healthcare,Ranchi,Jharkhand
+MER00004,Reliance Trends 4,Fashion,Dehradun,Uttarakhand
+MER00005,Croma 5,Electronics,Mangalore,Karnataka
+MER00006,Big Bazaar 6,Supermarket,Haridwar,Uttarakhand
+MER00007,Reliance Trends 7,Fashion,Howrah,West Bengal
+MER00008,Vijay Sales 8,Electronics,Jaipur,Rajasthan
+MER00009,Vijay Sales 9,Electronics,Faridabad,Haryana
+MER00010,Zudio 10,Fashion,Udaipur,Rajasthan
+MER00011,McDonald's 11,Restaurant,Vadodara,Gujarat
+MER00012,Apollo Pharmacy 12,Healthcare,Durgapur,West Bengal
+MER00013,DMart 13,Supermarket,Guwahati,Assam
+MER00014,Apollo Pharmacy 14,Healthcare,Jodhpur,Rajasthan
+MER00015,Big Bazaar 15,Supermarket,Trivandrum,Kerala
+MER00016,Pantaloons 16,Fashion,Guwahati,Assam
+MER00017,Starbucks 17,Cafe,Faridabad,Haryana
+MER00018,Starbucks 18,Cafe,Hubli,Karnataka
+MER00019,MedPlus 19,Healthcare,Salem,Tamil Nadu
+MER00020,Spencer's 20,Supermarket,Ghaziabad,Uttar Pradesh
+MER00021,KFC 21,Restaurant,Haridwar,Uttarakhand
+MER00022,Starbucks 22,Cafe,Jamshedpur,Jharkhand
+MER00023,Lifestyle 23,Fashion,Nagpur,Maharashtra
+MER00024,Big Bazaar 24,Supermarket,Rajkot,Gujarat
+MER00025,Big Bazaar 25,Supermarket,Noida,Uttar Pradesh
+MER00026,MedPlus 26,Healthcare,Delhi,Delhi
+MER00027,Croma 27,Electronics,Faridabad,Haryana
+MER00028,Zudio 28,Fashion,Hubli,Karnataka
+MER00029,Pantaloons 29,Fashion,Bilaspur,Chhattisgarh
+MER00030,Zudio 30,Fashion,Bhubaneswar,Odisha
+MER00031,McDonald's 31,Restaurant,Jamshedpur,Jharkhand
+MER00032,DMart 32,Supermarket,Patna,Bihar
+MER00033,More Supermarket 33,Supermarket,Bhopal,Madhya Pradesh
+MER00034,MedPlus 34,Healthcare,Ludhiana,Punjab
+MER00035,Pantaloons 35,Fashion,Bhubaneswar,Odisha
+MER00036,Domino's 36,Restaurant,Raipur,Chhattisgarh
+MER00037,Big Bazaar 37,Supermarket,Nizamabad,Telangana
+MER00038,Reliance Trends 38,Fashion,Salem,Tamil Nadu
+MER00039,Apollo Pharmacy 39,Healthcare,Faridabad,Haryana
+MER00040,Reliance Fresh 40,Supermarket,Kolhapur,Maharashtra
+MER00041,Pantaloons 41,Fashion,Udaipur,Rajasthan
+MER00042,Reliance Digital 42,Electronics,Jamshedpur,Jharkhand
+MER00043,KFC 43,Restaurant,Gaya,Bihar
+MER00044,Decathlon 44,Sports,Hubli,Karnataka
+MER00045,Apollo Pharmacy 45,Healthcare,Kochi,Kerala
+MER00046,DMart 46,Supermarket,Guwahati,Assam
+MER00047,Croma 47,Electronics,Ranchi,Jharkhand
+MER00048,Vijay Sales 48,Electronics,Rajkot,Gujarat
+MER00049,Zudio 49,Fashion,Bhopal,Madhya Pradesh
+MER00050,Apollo Pharmacy 50,Healthcare,Howrah,West Bengal
+MER00051,McDonald's 51,Restaurant,Kolkata,West Bengal
+MER00052,Decathlon 52,Sports,Rajkot,Gujarat
+MER00053,More Supermarket 53,Supermarket,Pune,Maharashtra
+MER00054,Starbucks 54,Cafe,Hubli,Karnataka
+MER00055,Starbucks 55,Cafe,Faridabad,Haryana
+MER00056,Reliance Trends 56,Fashion,Bhubaneswar,Odisha
+MER00057,Zudio 57,Fashion,Patna,Bihar
+MER00058,Big Bazaar 58,Supermarket,Salem,Tamil Nadu
+MER00059,More Supermarket 59,Supermarket,Bilaspur,Chhattisgarh
+MER00060,Lifestyle 60,Fashion,Bhubaneswar,Odisha
+MER00061,Reliance Fresh 61,Supermarket,Raipur,Chhattisgarh
+MER00062,Reliance Fresh 62,Supermarket,Dehradun,Uttarakhand
+MER00063,Reliance Digital 63,Electronics,Guwahati,Assam
+MER00064,MedPlus 64,Healthcare,Dehradun,Uttarakhand
+MER00065,MedPlus 65,Healthcare,Rajkot,Gujarat
+MER00066,Pantaloons 66,Fashion,Faridabad,Haryana
+MER00067,KFC 67,Restaurant,Delhi,Delhi
+MER00068,KFC 68,Restaurant,Ghaziabad,Uttar Pradesh
+MER00069,MedPlus 69,Healthcare,Howrah,West Bengal
+MER00070,Croma 70,Electronics,Guwahati,Assam
+MER00071,Decathlon 71,Sports,Gaya,Bihar
+MER00072,Domino's 72,Restaurant,New Delhi,Delhi
+MER00073,Pantaloons 73,Fashion,Bhopal,Madhya Pradesh
+MER00074,Zudio 74,Fashion,Trivandrum,Kerala
+MER00075,DMart 75,Supermarket,Gaya,Bihar
+MER00076,KFC 76,Restaurant,Bhopal,Madhya Pradesh
+MER00077,Domino's 77,Restaurant,Guwahati,Assam
+MER00078,DMart 78,Supermarket,Trivandrum,Kerala
+MER00079,Domino's 79,Restaurant,Gurugram,Haryana
+MER00080,Domino's 80,Restaurant,Indore,Madhya Pradesh
+MER00081,Pantaloons 81,Fashion,Indore,Madhya Pradesh
+MER00082,Starbucks 82,Cafe,Guwahati,Assam
+MER00083,Reliance Trends 83,Fashion,Raipur,Chhattisgarh
+MER00084,Zudio 84,Fashion,Kochi,Kerala
+MER00085,DMart 85,Supermarket,Margao,Goa
+MER00086,Domino's 86,Restaurant,Gwalior,Madhya Pradesh
+MER00087,Decathlon 87,Sports,Faridabad,Haryana
+MER00088,Reliance Fresh 88,Supermarket,Cuttack,Odisha
+MER00089,KFC 89,Restaurant,Mangalore,Karnataka
+MER00090,Spencer's 90,Supermarket,New Delhi,Delhi
+MER00091,McDonald's 91,Restaurant,Bhubaneswar,Odisha
+MER00092,Spencer's 92,Supermarket,Kochi,Kerala
+MER00093,Starbucks 93,Cafe,Faridabad,Haryana
+MER00094,DMart 94,Supermarket,Jamshedpur,Jharkhand
+MER00095,Spencer's 95,Supermarket,Gaya,Bihar
+MER00096,Pantaloons 96,Fashion,Durgapur,West Bengal
+MER00097,Westside 97,Fashion,Ghaziabad,Uttar Pradesh
+MER00098,Pantaloons 98,Fashion,Durgapur,West Bengal
+MER00099,DMart 99,Supermarket,Ahmedabad,Gujarat
+MER00100,Pantaloons 100,Fashion,Kozhikode,Kerala
+MER00101,Starbucks 101,Cafe,Ranchi,Jharkhand
+MER00102,Starbucks 102,Cafe,Dehradun,Uttarakhand
+MER00103,Starbucks 103,Cafe,Noida,Uttar Pradesh
+MER00104,Domino's 104,Restaurant,Agra,Uttar Pradesh
+MER00105,Croma 105,Electronics,Jamshedpur,Jharkhand
+MER00106,Vijay Sales 106,Electronics,Raipur,Chhattisgarh
+MER00107,Decathlon 107,Sports,Ranchi,Jharkhand
+MER00108,Reliance Trends 108,Fashion,Udaipur,Rajasthan
+MER00109,Spencer's 109,Supermarket,Salem,Tamil Nadu
+MER00110,Big Bazaar 110,Supermarket,Margao,Goa
+MER00111,Reliance Trends 111,Fashion,Chennai,Tamil Nadu
+MER00112,Reliance Fresh 112,Supermarket,Panaji,Goa
+MER00113,Westside 113,Fashion,Chennai,Tamil Nadu
+MER00114,Domino's 114,Restaurant,Margao,Goa
+MER00115,Decathlon 115,Sports,Gaya,Bihar
+MER00116,Reliance Digital 116,Electronics,Jaipur,Rajasthan
+MER00117,DMart 117,Supermarket,Ghaziabad,Uttar Pradesh
+MER00118,Lifestyle 118,Fashion,Jamshedpur,Jharkhand
+MER00119,More Supermarket 119,Supermarket,Mumbai,Maharashtra
+MER00120,KFC 120,Restaurant,Faridabad,Haryana
+MER00121,Big Bazaar 121,Supermarket,Dehradun,Uttarakhand
+MER00122,Domino's 122,Restaurant,Udaipur,Rajasthan
+MER00123,Westside 123,Fashion,Guwahati,Assam
+MER00124,McDonald's 124,Restaurant,Udaipur,Rajasthan
+MER00125,Big Bazaar 125,Supermarket,Jalandhar,Punjab
+MER00126,Starbucks 126,Cafe,Panaji,Goa
+MER00127,Reliance Trends 127,Fashion,Patna,Bihar
+MER00128,Decathlon 128,Sports,Howrah,West Bengal
+MER00129,KFC 129,Restaurant,Haridwar,Uttarakhand
+MER00130,Croma 130,Electronics,Kozhikode,Kerala
+MER00131,Big Bazaar 131,Supermarket,Panaji,Goa
+MER00132,Reliance Trends 132,Fashion,Kolkata,West Bengal
+MER00133,McDonald's 133,Restaurant,Mumbai,Maharashtra
+MER00134,Spencer's 134,Supermarket,Dehradun,Uttarakhand
+MER00135,Croma 135,Electronics,Pune,Maharashtra
+MER00136,Lifestyle 136,Fashion,Jaipur,Rajasthan
+MER00137,KFC 137,Restaurant,New Delhi,Delhi
+MER00138,Spencer's 138,Supermarket,Panaji,Goa
+MER00139,Zudio 139,Fashion,Jalandhar,Punjab
+MER00140,Apollo Pharmacy 140,Healthcare,Bilaspur,Chhattisgarh
+MER00141,Lifestyle 141,Fashion,Kolhapur,Maharashtra
+MER00142,KFC 142,Restaurant,Gurugram,Haryana
+MER00143,Decathlon 143,Sports,Nagpur,Maharashtra
+MER00144,KFC 144,Restaurant,Patna,Bihar
+MER00145,Croma 145,Electronics,Hyderabad,Telangana
+MER00146,More Supermarket 146,Supermarket,Kolkata,West Bengal
+MER00147,Vijay Sales 147,Electronics,Gaya,Bihar
+MER00148,Decathlon 148,Sports,New Delhi,Delhi
+MER00149,KFC 149,Restaurant,Udaipur,Rajasthan
+MER00150,Decathlon 150,Sports,Amritsar,Punjab
+MER00151,Reliance Fresh 151,Supermarket,Udaipur,Rajasthan
+MER00152,Lifestyle 152,Fashion,Chennai,Tamil Nadu
+MER00153,Croma 153,Electronics,Vadodara,Gujarat
+MER00154,DMart 154,Supermarket,Guwahati,Assam
+MER00155,Reliance Digital 155,Electronics,Patna,Bihar
+MER00156,Croma 156,Electronics,Ghaziabad,Uttar Pradesh
+MER00157,Reliance Fresh 157,Supermarket,Bengaluru,Karnataka
+MER00158,Croma 158,Electronics,Bilaspur,Chhattisgarh
+MER00159,Lifestyle 159,Fashion,Warangal,Telangana
+MER00160,Apollo Pharmacy 160,Healthcare,Ahmedabad,Gujarat
+MER00161,Lifestyle 161,Fashion,Chennai,Tamil Nadu
+MER00162,Westside 162,Fashion,Hyderabad,Telangana
+MER00163,Apollo Pharmacy 163,Healthcare,Solapur,Maharashtra
+MER00164,Apollo Pharmacy 164,Healthcare,Rajkot,Gujarat
+MER00165,Big Bazaar 165,Supermarket,Bilaspur,Chhattisgarh
+MER00166,MedPlus 166,Healthcare,Dehradun,Uttarakhand
+MER00167,More Supermarket 167,Supermarket,Chennai,Tamil Nadu
+MER00168,Big Bazaar 168,Supermarket,Guwahati,Assam
+MER00169,McDonald's 169,Restaurant,Raipur,Chhattisgarh
+MER00170,More Supermarket 170,Supermarket,Guwahati,Assam
+MER00171,DMart 171,Supermarket,Bilaspur,Chhattisgarh
+MER00172,Reliance Fresh 172,Supermarket,Cuttack,Odisha
+MER00173,Decathlon 173,Sports,Cuttack,Odisha
+MER00174,Apollo Pharmacy 174,Healthcare,Madurai,Tamil Nadu
+MER00175,MedPlus 175,Healthcare,Howrah,West Bengal
+MER00176,Lifestyle 176,Fashion,Surat,Gujarat
+MER00177,Zudio 177,Fashion,Mysuru,Karnataka
+MER00178,Apollo Pharmacy 178,Healthcare,Haridwar,Uttarakhand
+MER00179,McDonald's 179,Restaurant,Madurai,Tamil Nadu
+MER00180,Pantaloons 180,Fashion,Hyderabad,Telangana
+MER00181,McDonald's 181,Restaurant,Cuttack,Odisha
+MER00182,Starbucks 182,Cafe,Bhopal,Madhya Pradesh
+MER00183,Apollo Pharmacy 183,Healthcare,Chennai,Tamil Nadu
+MER00184,McDonald's 184,Restaurant,Jodhpur,Rajasthan
+MER00185,Starbucks 185,Cafe,Margao,Goa
+MER00186,Starbucks 186,Cafe,Howrah,West Bengal
+MER00187,More Supermarket 187,Supermarket,Raipur,Chhattisgarh
+MER00188,Spencer's 188,Supermarket,Haridwar,Uttarakhand
+MER00189,Big Bazaar 189,Supermarket,Margao,Goa
+MER00190,More Supermarket 190,Supermarket,Jamshedpur,Jharkhand
+MER00191,KFC 191,Restaurant,Jalandhar,Punjab
+MER00192,More Supermarket 192,Supermarket,Jamshedpur,Jharkhand
+MER00193,KFC 193,Restaurant,Bhubaneswar,Odisha
+MER00194,KFC 194,Restaurant,Guwahati,Assam
+MER00195,McDonald's 195,Restaurant,Noida,Uttar Pradesh
+MER00196,Lifestyle 196,Fashion,Ranchi,Jharkhand
+MER00197,McDonald's 197,Restaurant,Cuttack,Odisha
+MER00198,Pantaloons 198,Fashion,Delhi,Delhi
+MER00199,Vijay Sales 199,Electronics,New Delhi,Delhi
+MER00200,MedPlus 200,Healthcare,Kozhikode,Kerala
+MER00201,Reliance Fresh 201,Supermarket,Kolkata,West Bengal
+MER00202,Reliance Trends 202,Fashion,Noida,Uttar Pradesh
+MER00203,Zudio 203,Fashion,Agra,Uttar Pradesh
+MER00204,Pantaloons 204,Fashion,Salem,Tamil Nadu
+MER00205,Croma 205,Electronics,Nagpur,Maharashtra
+MER00206,More Supermarket 206,Supermarket,Bhopal,Madhya Pradesh
+MER00207,Zudio 207,Fashion,Jodhpur,Rajasthan
+MER00208,Big Bazaar 208,Supermarket,Gurugram,Haryana
+MER00209,Lifestyle 209,Fashion,Raipur,Chhattisgarh
+MER00210,Lifestyle 210,Fashion,Lucknow,Uttar Pradesh
+MER00211,DMart 211,Supermarket,Nizamabad,Telangana
+MER00212,Croma 212,Electronics,Guwahati,Assam
+MER00213,Lifestyle 213,Fashion,Coimbatore,Tamil Nadu
+MER00214,Domino's 214,Restaurant,Noida,Uttar Pradesh
+MER00215,DMart 215,Supermarket,Ranchi,Jharkhand
+MER00216,Westside 216,Fashion,Bilaspur,Chhattisgarh
+MER00217,Vijay Sales 217,Electronics,Jaipur,Rajasthan
+MER00218,Croma 218,Electronics,Bhubaneswar,Odisha
+MER00219,Lifestyle 219,Fashion,Dehradun,Uttarakhand
+MER00220,Vijay Sales 220,Electronics,Bhubaneswar,Odisha
+MER00221,MedPlus 221,Healthcare,Udaipur,Rajasthan
+MER00222,More Supermarket 222,Supermarket,Bilaspur,Chhattisgarh
+MER00223,KFC 223,Restaurant,Kozhikode,Kerala
+MER00224,Zudio 224,Fashion,Kolhapur,Maharashtra
+MER00225,Reliance Fresh 225,Supermarket,Raipur,Chhattisgarh
+MER00226,Lifestyle 226,Fashion,Ahmedabad,Gujarat
+MER00227,Reliance Fresh 227,Supermarket,Kolkata,West Bengal
+MER00228,Domino's 228,Restaurant,Guwahati,Assam
+MER00229,Spencer's 229,Supermarket,Ranchi,Jharkhand
+MER00230,Starbucks 230,Cafe,Bhubaneswar,Odisha
+MER00231,Domino's 231,Restaurant,Cuttack,Odisha
+MER00232,Domino's 232,Restaurant,Warangal,Telangana
+MER00233,Lifestyle 233,Fashion,Jalandhar,Punjab
+MER00234,Zudio 234,Fashion,Ghaziabad,Uttar Pradesh
+MER00235,KFC 235,Restaurant,Bhubaneswar,Odisha
+MER00236,Spencer's 236,Supermarket,Madurai,Tamil Nadu
+MER00237,Reliance Trends 237,Fashion,Delhi,Delhi
+MER00238,Vijay Sales 238,Electronics,Amritsar,Punjab
+MER00239,More Supermarket 239,Supermarket,Ludhiana,Punjab
+MER00240,KFC 240,Restaurant,Rajkot,Gujarat
+MER00241,KFC 241,Restaurant,Warangal,Telangana
+MER00242,KFC 242,Restaurant,Guwahati,Assam
+MER00243,DMart 243,Supermarket,Margao,Goa
+MER00244,McDonald's 244,Restaurant,Haridwar,Uttarakhand
+MER00245,Zudio 245,Fashion,Trivandrum,Kerala
+MER00246,DMart 246,Supermarket,Jodhpur,Rajasthan
+MER00247,More Supermarket 247,Supermarket,Bhubaneswar,Odisha
+MER00248,Domino's 248,Restaurant,Dehradun,Uttarakhand
+MER00249,Domino's 249,Restaurant,Jodhpur,Rajasthan
+MER00250,Reliance Trends 250,Fashion,Cuttack,Odisha
+MER00251,Croma 251,Electronics,Faridabad,Haryana
+MER00252,Reliance Trends 252,Fashion,Guwahati,Assam
+MER00253,Vijay Sales 253,Electronics,Kozhikode,Kerala
+MER00254,More Supermarket 254,Supermarket,Panaji,Goa
+MER00255,Apollo Pharmacy 255,Healthcare,Coimbatore,Tamil Nadu
+MER00256,Lifestyle 256,Fashion,Vadodara,Gujarat
+MER00257,Domino's 257,Restaurant,Kolhapur,Maharashtra
+MER00258,Pantaloons 258,Fashion,Indore,Madhya Pradesh
+MER00259,Croma 259,Electronics,Madurai,Tamil Nadu
+MER00260,Zudio 260,Fashion,Gaya,Bihar
+MER00261,Decathlon 261,Sports,Gaya,Bihar
+MER00262,Pantaloons 262,Fashion,Jalandhar,Punjab
+MER00263,Spencer's 263,Supermarket,Amritsar,Punjab
+MER00264,Big Bazaar 264,Supermarket,Mumbai,Maharashtra
+MER00265,Zudio 265,Fashion,Gurugram,Haryana
+MER00266,Reliance Fresh 266,Supermarket,Haridwar,Uttarakhand
+MER00267,More Supermarket 267,Supermarket,Jalandhar,Punjab
+MER00268,Reliance Trends 268,Fashion,Indore,Madhya Pradesh
+MER00269,Apollo Pharmacy 269,Healthcare,Madurai,Tamil Nadu
+MER00270,MedPlus 270,Healthcare,Margao,Goa
+MER00271,Zudio 271,Fashion,Coimbatore,Tamil Nadu
+MER00272,Pantaloons 272,Fashion,Haridwar,Uttarakhand
+MER00273,Vijay Sales 273,Electronics,Gaya,Bihar
+MER00274,KFC 274,Restaurant,Kolkata,West Bengal
+MER00275,Apollo Pharmacy 275,Healthcare,Bengaluru,Karnataka
+MER00276,Reliance Fresh 276,Supermarket,Guwahati,Assam
+MER00277,Zudio 277,Fashion,Hyderabad,Telangana
+MER00278,Domino's 278,Restaurant,Vadodara,Gujarat
+MER00279,Croma 279,Electronics,Bhubaneswar,Odisha
+MER00280,More Supermarket 280,Supermarket,Ahmedabad,Gujarat
+MER00281,McDonald's 281,Restaurant,Vadodara,Gujarat
+MER00282,Zudio 282,Fashion,Mysuru,Karnataka
+MER00283,Croma 283,Electronics,Hubli,Karnataka
+MER00284,Reliance Trends 284,Fashion,Mangalore,Karnataka
+MER00285,Vijay Sales 285,Electronics,Cuttack,Odisha
+MER00286,Reliance Trends 286,Fashion,Jalandhar,Punjab
+MER00287,Lifestyle 287,Fashion,Pune,Maharashtra
+MER00288,McDonald's 288,Restaurant,Kochi,Kerala
+MER00289,Reliance Trends 289,Fashion,Indore,Madhya Pradesh
+MER00290,McDonald's 290,Restaurant,Dehradun,Uttarakhand
+MER00291,Starbucks 291,Cafe,Margao,Goa
+MER00292,DMart 292,Supermarket,Mysuru,Karnataka
+MER00293,Big Bazaar 293,Supermarket,Kozhikode,Kerala
+MER00294,Decathlon 294,Sports,Margao,Goa
+MER00295,DMart 295,Supermarket,Noida,Uttar Pradesh
+MER00296,Pantaloons 296,Fashion,Bhopal,Madhya Pradesh
+MER00297,Apollo Pharmacy 297,Healthcare,Nashik,Maharashtra
+MER00298,Pantaloons 298,Fashion,Haridwar,Uttarakhand
+MER00299,Spencer's 299,Supermarket,Trivandrum,Kerala
+MER00300,Starbucks 300,Cafe,Cuttack,Odisha
+MER00301,Croma 301,Electronics,Dehradun,Uttarakhand
+MER00302,Reliance Digital 302,Electronics,Gaya,Bihar
+MER00303,More Supermarket 303,Supermarket,Raipur,Chhattisgarh
+MER00304,Reliance Fresh 304,Supermarket,Madurai,Tamil Nadu
+MER00305,Reliance Fresh 305,Supermarket,Hyderabad,Telangana
+MER00306,Lifestyle 306,Fashion,Margao,Goa
+MER00307,Westside 307,Fashion,Faridabad,Haryana
+MER00308,Reliance Fresh 308,Supermarket,Udaipur,Rajasthan
+MER00309,More Supermarket 309,Supermarket,Jalandhar,Punjab
+MER00310,McDonald's 310,Restaurant,Warangal,Telangana
+MER00311,Lifestyle 311,Fashion,Trivandrum,Kerala
+MER00312,Spencer's 312,Supermarket,Vadodara,Gujarat
+MER00313,Big Bazaar 313,Supermarket,Mumbai,Maharashtra
+MER00314,Starbucks 314,Cafe,Ahmedabad,Gujarat
+MER00315,Apollo Pharmacy 315,Healthcare,Guwahati,Assam
+MER00316,Apollo Pharmacy 316,Healthcare,Bhopal,Madhya Pradesh
+MER00317,Westside 317,Fashion,Panaji,Goa
+MER00318,Reliance Digital 318,Electronics,Jamshedpur,Jharkhand
+MER00319,Spencer's 319,Supermarket,Raipur,Chhattisgarh
+MER00320,Reliance Fresh 320,Supermarket,Guwahati,Assam
+MER00321,Big Bazaar 321,Supermarket,Coimbatore,Tamil Nadu
+MER00322,More Supermarket 322,Supermarket,Jamshedpur,Jharkhand
+MER00323,Croma 323,Electronics,Jamshedpur,Jharkhand
+MER00324,Big Bazaar 324,Supermarket,Amritsar,Punjab
+MER00325,Domino's 325,Restaurant,Ranchi,Jharkhand
+MER00326,More Supermarket 326,Supermarket,Guwahati,Assam
+MER00327,Apollo Pharmacy 327,Healthcare,Guwahati,Assam
+MER00328,Starbucks 328,Cafe,Kolkata,West Bengal
+MER00329,Domino's 329,Restaurant,Jamshedpur,Jharkhand
+MER00330,Big Bazaar 330,Supermarket,Guwahati,Assam
+MER00331,MedPlus 331,Healthcare,Trivandrum,Kerala
+MER00332,Big Bazaar 332,Supermarket,Nagpur,Maharashtra
+MER00333,Pantaloons 333,Fashion,Udaipur,Rajasthan
+MER00334,DMart 334,Supermarket,Ghaziabad,Uttar Pradesh
+MER00335,Reliance Fresh 335,Supermarket,Amritsar,Punjab
+MER00336,Pantaloons 336,Fashion,Warangal,Telangana
+MER00337,DMart 337,Supermarket,Amritsar,Punjab
+MER00338,Big Bazaar 338,Supermarket,Amritsar,Punjab
+MER00339,Vijay Sales 339,Electronics,Jodhpur,Rajasthan
+MER00340,Reliance Fresh 340,Supermarket,Salem,Tamil Nadu
+MER00341,Zudio 341,Fashion,Kolkata,West Bengal
+MER00342,Westside 342,Fashion,Udaipur,Rajasthan
+MER00343,Apollo Pharmacy 343,Healthcare,Gaya,Bihar
+MER00344,Pantaloons 344,Fashion,Ludhiana,Punjab
+MER00345,Westside 345,Fashion,Jaipur,Rajasthan
+MER00346,Zudio 346,Fashion,Ludhiana,Punjab
+MER00347,Vijay Sales 347,Electronics,Dehradun,Uttarakhand
+MER00348,McDonald's 348,Restaurant,Amritsar,Punjab
+MER00349,Croma 349,Electronics,Ghaziabad,Uttar Pradesh
+MER00350,Lifestyle 350,Fashion,Guwahati,Assam
+MER00351,Croma 351,Electronics,Margao,Goa
+MER00352,Croma 352,Electronics,Mangalore,Karnataka
+MER00353,Spencer's 353,Supermarket,Bhopal,Madhya Pradesh
+MER00354,Zudio 354,Fashion,Jodhpur,Rajasthan
+MER00355,Zudio 355,Fashion,Margao,Goa
+MER00356,Reliance Digital 356,Electronics,Vadodara,Gujarat
+MER00357,Apollo Pharmacy 357,Healthcare,Coimbatore,Tamil Nadu
+MER00358,Reliance Digital 358,Electronics,Nashik,Maharashtra
+MER00359,Starbucks 359,Cafe,Guwahati,Assam
+MER00360,Big Bazaar 360,Supermarket,Panaji,Goa
+MER00361,Westside 361,Fashion,Jodhpur,Rajasthan
+MER00362,Vijay Sales 362,Electronics,Ghaziabad,Uttar Pradesh
+MER00363,Westside 363,Fashion,Kolkata,West Bengal
+MER00364,Big Bazaar 364,Supermarket,Amritsar,Punjab
+MER00365,KFC 365,Restaurant,Ranchi,Jharkhand
+MER00366,Reliance Digital 366,Electronics,Noida,Uttar Pradesh
+MER00367,McDonald's 367,Restaurant,Jaipur,Rajasthan
+MER00368,Pantaloons 368,Fashion,Cuttack,Odisha
+MER00369,Vijay Sales 369,Electronics,Kochi,Kerala
+MER00370,Reliance Digital 370,Electronics,Jamshedpur,Jharkhand
+MER00371,More Supermarket 371,Supermarket,Panaji,Goa
+MER00372,Reliance Trends 372,Fashion,Patna,Bihar
+MER00373,Reliance Trends 373,Fashion,Ludhiana,Punjab
+MER00374,Reliance Digital 374,Electronics,Raipur,Chhattisgarh
+MER00375,Zudio 375,Fashion,Haridwar,Uttarakhand
+MER00376,Lifestyle 376,Fashion,Dehradun,Uttarakhand
+MER00377,Lifestyle 377,Fashion,Raipur,Chhattisgarh
+MER00378,Apollo Pharmacy 378,Healthcare,Dehradun,Uttarakhand
+MER00379,Croma 379,Electronics,Margao,Goa
+MER00380,Westside 380,Fashion,Madurai,Tamil Nadu
+MER00381,DMart 381,Supermarket,Gaya,Bihar
+MER00382,Vijay Sales 382,Electronics,Coimbatore,Tamil Nadu
+MER00383,MedPlus 383,Healthcare,Bhopal,Madhya Pradesh
+MER00384,Westside 384,Fashion,Guwahati,Assam
+MER00385,MedPlus 385,Healthcare,Mysuru,Karnataka
+MER00386,Lifestyle 386,Fashion,Patna,Bihar
+MER00387,Vijay Sales 387,Electronics,Chennai,Tamil Nadu
+MER00388,McDonald's 388,Restaurant,Bengaluru,Karnataka
+MER00389,Apollo Pharmacy 389,Healthcare,Mysuru,Karnataka
+MER00390,DMart 390,Supermarket,Gaya,Bihar
+MER00391,Croma 391,Electronics,Kolhapur,Maharashtra
+MER00392,MedPlus 392,Healthcare,Lucknow,Uttar Pradesh
+MER00393,Reliance Digital 393,Electronics,Indore,Madhya Pradesh
+MER00394,More Supermarket 394,Supermarket,Bilaspur,Chhattisgarh
+MER00395,Reliance Trends 395,Fashion,Panaji,Goa
+MER00396,Zudio 396,Fashion,Solapur,Maharashtra
+MER00397,Apollo Pharmacy 397,Healthcare,Jaipur,Rajasthan
+MER00398,Apollo Pharmacy 398,Healthcare,Mangalore,Karnataka
+MER00399,Zudio 399,Fashion,Rajkot,Gujarat
+MER00400,Reliance Fresh 400,Supermarket,Kozhikode,Kerala
+MER00401,Spencer's 401,Supermarket,Gurugram,Haryana
+MER00402,Apollo Pharmacy 402,Healthcare,Bhopal,Madhya Pradesh
+MER00403,Westside 403,Fashion,Cuttack,Odisha
+MER00404,Reliance Trends 404,Fashion,Jaipur,Rajasthan
+MER00405,Lifestyle 405,Fashion,Hubli,Karnataka
+MER00406,Domino's 406,Restaurant,Chennai,Tamil Nadu
+MER00407,DMart 407,Supermarket,Bengaluru,Karnataka
+MER00408,Reliance Fresh 408,Supermarket,Coimbatore,Tamil Nadu
+MER00409,Big Bazaar 409,Supermarket,New Delhi,Delhi
+MER00410,Westside 410,Fashion,Mangalore,Karnataka
+MER00411,DMart 411,Supermarket,Kochi,Kerala
+MER00412,Starbucks 412,Cafe,Patna,Bihar
+MER00413,Big Bazaar 413,Supermarket,Gaya,Bihar
+MER00414,Domino's 414,Restaurant,Udaipur,Rajasthan
+MER00415,Lifestyle 415,Fashion,Panaji,Goa
+MER00416,Zudio 416,Fashion,Warangal,Telangana
+MER00417,McDonald's 417,Restaurant,Ludhiana,Punjab
+MER00418,Reliance Digital 418,Electronics,Agra,Uttar Pradesh
+MER00419,Domino's 419,Restaurant,Guwahati,Assam
+MER00420,More Supermarket 420,Supermarket,Gaya,Bihar
+MER00421,Apollo Pharmacy 421,Healthcare,Noida,Uttar Pradesh
+MER00422,Westside 422,Fashion,Kolkata,West Bengal
+MER00423,Reliance Fresh 423,Supermarket,Jalandhar,Punjab
+MER00424,Decathlon 424,Sports,Warangal,Telangana
+MER00425,More Supermarket 425,Supermarket,Mangalore,Karnataka
+MER00426,DMart 426,Supermarket,Delhi,Delhi
+MER00427,Vijay Sales 427,Electronics,Nashik,Maharashtra
+MER00428,Spencer's 428,Supermarket,Margao,Goa
+MER00429,Westside 429,Fashion,Gurugram,Haryana
+MER00430,Westside 430,Fashion,Nashik,Maharashtra
+MER00431,Reliance Trends 431,Fashion,Gwalior,Madhya Pradesh
+MER00432,Zudio 432,Fashion,Indore,Madhya Pradesh
+MER00433,Pantaloons 433,Fashion,Kolkata,West Bengal
+MER00434,Decathlon 434,Sports,Delhi,Delhi
+MER00435,Spencer's 435,Supermarket,Hubli,Karnataka
+MER00436,Lifestyle 436,Fashion,Warangal,Telangana
+MER00437,Pantaloons 437,Fashion,Patna,Bihar
+MER00438,Apollo Pharmacy 438,Healthcare,Haridwar,Uttarakhand
+MER00439,Westside 439,Fashion,Bilaspur,Chhattisgarh
+MER00440,KFC 440,Restaurant,Guwahati,Assam
+MER00441,DMart 441,Supermarket,Jamshedpur,Jharkhand
+MER00442,Reliance Fresh 442,Supermarket,Jodhpur,Rajasthan
+MER00443,Croma 443,Electronics,Ranchi,Jharkhand
+MER00444,Croma 444,Electronics,Durgapur,West Bengal
+MER00445,Reliance Digital 445,Electronics,Faridabad,Haryana
+MER00446,Lifestyle 446,Fashion,Margao,Goa
+MER00447,Croma 447,Electronics,Noida,Uttar Pradesh
+MER00448,More Supermarket 448,Supermarket,Hubli,Karnataka
+MER00449,Spencer's 449,Supermarket,Jaipur,Rajasthan
+MER00450,Lifestyle 450,Fashion,Kanpur,Uttar Pradesh
+MER00451,MedPlus 451,Healthcare,Aurangabad,Maharashtra
+MER00452,Vijay Sales 452,Electronics,Durgapur,West Bengal
+MER00453,Pantaloons 453,Fashion,Bhubaneswar,Odisha
+MER00454,Reliance Digital 454,Electronics,Gaya,Bihar
+MER00455,DMart 455,Supermarket,Indore,Madhya Pradesh
+MER00456,McDonald's 456,Restaurant,Nagpur,Maharashtra
+MER00457,McDonald's 457,Restaurant,Chennai,Tamil Nadu
+MER00458,Westside 458,Fashion,Hyderabad,Telangana
+MER00459,Westside 459,Fashion,Kolhapur,Maharashtra
+MER00460,KFC 460,Restaurant,Guwahati,Assam
+MER00461,Lifestyle 461,Fashion,Amritsar,Punjab
+MER00462,Westside 462,Fashion,Kochi,Kerala
+MER00463,Croma 463,Electronics,Bhubaneswar,Odisha
+MER00464,Croma 464,Electronics,Kochi,Kerala
+MER00465,Lifestyle 465,Fashion,Raipur,Chhattisgarh
+MER00466,Pantaloons 466,Fashion,Dehradun,Uttarakhand
+MER00467,DMart 467,Supermarket,Faridabad,Haryana
+MER00468,Starbucks 468,Cafe,Hyderabad,Telangana
+MER00469,Westside 469,Fashion,Delhi,Delhi
+MER00470,Reliance Fresh 470,Supermarket,Aurangabad,Maharashtra
+MER00471,Apollo Pharmacy 471,Healthcare,Ghaziabad,Uttar Pradesh
+MER00472,Reliance Trends 472,Fashion,Ludhiana,Punjab
+MER00473,Decathlon 473,Sports,Dehradun,Uttarakhand
+MER00474,Vijay Sales 474,Electronics,Chennai,Tamil Nadu
+MER00475,KFC 475,Restaurant,Hyderabad,Telangana
+MER00476,DMart 476,Supermarket,Chennai,Tamil Nadu
+MER00477,Lifestyle 477,Fashion,Mumbai,Maharashtra
+MER00478,Pantaloons 478,Fashion,Trivandrum,Kerala
+MER00479,McDonald's 479,Restaurant,Jodhpur,Rajasthan
+MER00480,Pantaloons 480,Fashion,Bilaspur,Chhattisgarh
+MER00481,Apollo Pharmacy 481,Healthcare,Haridwar,Uttarakhand
+MER00482,Zudio 482,Fashion,Indore,Madhya Pradesh
+MER00483,Pantaloons 483,Fashion,Gurugram,Haryana
+MER00484,Westside 484,Fashion,Surat,Gujarat
+MER00485,Vijay Sales 485,Electronics,Guwahati,Assam
+MER00486,Domino's 486,Restaurant,Ranchi,Jharkhand
+MER00487,Decathlon 487,Sports,Patna,Bihar
+MER00488,Pantaloons 488,Fashion,Haridwar,Uttarakhand
+MER00489,More Supermarket 489,Supermarket,Warangal,Telangana
+MER00490,Vijay Sales 490,Electronics,Gaya,Bihar
+MER00491,Zudio 491,Fashion,Cuttack,Odisha
+MER00492,Big Bazaar 492,Supermarket,Lucknow,Uttar Pradesh
+MER00493,McDonald's 493,Restaurant,Raipur,Chhattisgarh
+MER00494,Reliance Fresh 494,Supermarket,Patna,Bihar
+MER00495,Big Bazaar 495,Supermarket,Delhi,Delhi
+MER00496,McDonald's 496,Restaurant,Vadodara,Gujarat
+MER00497,Pantaloons 497,Fashion,Panaji,Goa
+MER00498,Croma 498,Electronics,Warangal,Telangana
+MER00499,Reliance Fresh 499,Supermarket,Guwahati,Assam
+MER00500,Decathlon 500,Sports,Dehradun,Uttarakhand
+MER00501,Reliance Trends 501,Fashion,Panaji,Goa
+MER00502,McDonald's 502,Restaurant,New Delhi,Delhi
+MER00503,Decathlon 503,Sports,Howrah,West Bengal
+MER00504,Vijay Sales 504,Electronics,New Delhi,Delhi
+MER00505,Big Bazaar 505,Supermarket,Kolkata,West Bengal
+MER00506,Decathlon 506,Sports,Warangal,Telangana
+MER00507,Decathlon 507,Sports,Guwahati,Assam
+MER00508,Westside 508,Fashion,Haridwar,Uttarakhand
+MER00509,Big Bazaar 509,Supermarket,Noida,Uttar Pradesh
+MER00510,MedPlus 510,Healthcare,Guwahati,Assam
+MER00511,MedPlus 511,Healthcare,Delhi,Delhi
+MER00512,Reliance Fresh 512,Supermarket,Indore,Madhya Pradesh
+MER00513,Spencer's 513,Supermarket,Jodhpur,Rajasthan
+MER00514,Lifestyle 514,Fashion,Ludhiana,Punjab
+MER00515,MedPlus 515,Healthcare,Mysuru,Karnataka
+MER00516,KFC 516,Restaurant,Ludhiana,Punjab
+MER00517,Croma 517,Electronics,Indore,Madhya Pradesh
+MER00518,Westside 518,Fashion,Indore,Madhya Pradesh
+MER00519,Decathlon 519,Sports,Guwahati,Assam
+MER00520,Pantaloons 520,Fashion,Nizamabad,Telangana
+MER00521,Apollo Pharmacy 521,Healthcare,Amritsar,Punjab
+MER00522,Pantaloons 522,Fashion,Bengaluru,Karnataka
+MER00523,Reliance Fresh 523,Supermarket,Aurangabad,Maharashtra
+MER00524,Decathlon 524,Sports,Gwalior,Madhya Pradesh
+MER00525,Decathlon 525,Sports,Haridwar,Uttarakhand
+MER00526,More Supermarket 526,Supermarket,Udaipur,Rajasthan
+MER00527,DMart 527,Supermarket,Ludhiana,Punjab
+MER00528,Reliance Digital 528,Electronics,Bhopal,Madhya Pradesh
+MER00529,Westside 529,Fashion,Kozhikode,Kerala
+MER00530,Pantaloons 530,Fashion,Kozhikode,Kerala
+MER00531,Zudio 531,Fashion,Hyderabad,Telangana
+MER00532,DMart 532,Supermarket,Guwahati,Assam
+MER00533,MedPlus 533,Healthcare,Chennai,Tamil Nadu
+MER00534,Starbucks 534,Cafe,Rajkot,Gujarat
+MER00535,Reliance Trends 535,Fashion,Faridabad,Haryana
+MER00536,McDonald's 536,Restaurant,Guwahati,Assam
+MER00537,Reliance Fresh 537,Supermarket,New Delhi,Delhi
+MER00538,More Supermarket 538,Supermarket,Bilaspur,Chhattisgarh
+MER00539,More Supermarket 539,Supermarket,Bhubaneswar,Odisha
+MER00540,Starbucks 540,Cafe,Surat,Gujarat
+MER00541,Domino's 541,Restaurant,Faridabad,Haryana
+MER00542,Croma 542,Electronics,New Delhi,Delhi
+MER00543,Decathlon 543,Sports,Patna,Bihar
+MER00544,Vijay Sales 544,Electronics,Nagpur,Maharashtra
+MER00545,Reliance Fresh 545,Supermarket,Ludhiana,Punjab
+MER00546,Big Bazaar 546,Supermarket,Noida,Uttar Pradesh
+MER00547,Croma 547,Electronics,Jalandhar,Punjab
+MER00548,MedPlus 548,Healthcare,Kolkata,West Bengal
+MER00549,Apollo Pharmacy 549,Healthcare,Ludhiana,Punjab
+MER00550,Reliance Fresh 550,Supermarket,Guwahati,Assam
+MER00551,Westside 551,Fashion,Ranchi,Jharkhand
+MER00552,Starbucks 552,Cafe,Guwahati,Assam
+MER00553,Domino's 553,Restaurant,Jaipur,Rajasthan
+MER00554,Starbucks 554,Cafe,Indore,Madhya Pradesh
+MER00555,Domino's 555,Restaurant,Chennai,Tamil Nadu
+MER00556,Reliance Trends 556,Fashion,Bhopal,Madhya Pradesh
+MER00557,KFC 557,Restaurant,Agra,Uttar Pradesh
+MER00558,MedPlus 558,Healthcare,Nizamabad,Telangana
+MER00559,MedPlus 559,Healthcare,Ahmedabad,Gujarat
+MER00560,Lifestyle 560,Fashion,Durgapur,West Bengal
+MER00561,KFC 561,Restaurant,Bhubaneswar,Odisha
+MER00562,Vijay Sales 562,Electronics,Gwalior,Madhya Pradesh
+MER00563,McDonald's 563,Restaurant,Salem,Tamil Nadu
+MER00564,MedPlus 564,Healthcare,Gurugram,Haryana
+MER00565,DMart 565,Supermarket,Guwahati,Assam
+MER00566,Reliance Digital 566,Electronics,Panaji,Goa
+MER00567,Reliance Digital 567,Electronics,Coimbatore,Tamil Nadu
+MER00568,Reliance Fresh 568,Supermarket,Warangal,Telangana
+MER00569,Reliance Digital 569,Electronics,Amritsar,Punjab
+MER00570,Decathlon 570,Sports,Surat,Gujarat
+MER00571,Reliance Digital 571,Electronics,Salem,Tamil Nadu
+MER00572,Reliance Fresh 572,Supermarket,Pune,Maharashtra
+MER00573,More Supermarket 573,Supermarket,Kochi,Kerala
+MER00574,Apollo Pharmacy 574,Healthcare,Pune,Maharashtra
+MER00575,Decathlon 575,Sports,Kozhikode,Kerala
+MER00576,DMart 576,Supermarket,Gaya,Bihar
+MER00577,More Supermarket 577,Supermarket,Amritsar,Punjab
+MER00578,Apollo Pharmacy 578,Healthcare,Nagpur,Maharashtra
+MER00579,MedPlus 579,Healthcare,Kozhikode,Kerala
+MER00580,Decathlon 580,Sports,Ranchi,Jharkhand
+MER00581,MedPlus 581,Healthcare,Ahmedabad,Gujarat
+MER00582,Vijay Sales 582,Electronics,Howrah,West Bengal
+MER00583,Decathlon 583,Sports,Hyderabad,Telangana
+MER00584,Westside 584,Fashion,Dehradun,Uttarakhand
+MER00585,Zudio 585,Fashion,Indore,Madhya Pradesh
+MER00586,Starbucks 586,Cafe,Haridwar,Uttarakhand
+MER00587,Croma 587,Electronics,Gwalior,Madhya Pradesh
+MER00588,McDonald's 588,Restaurant,Panaji,Goa
+MER00589,Zudio 589,Fashion,Noida,Uttar Pradesh
+MER00590,Lifestyle 590,Fashion,Amritsar,Punjab
+MER00591,Lifestyle 591,Fashion,Dehradun,Uttarakhand
+MER00592,Apollo Pharmacy 592,Healthcare,Trivandrum,Kerala
+MER00593,KFC 593,Restaurant,Vadodara,Gujarat
+MER00594,Domino's 594,Restaurant,Panaji,Goa
+MER00595,KFC 595,Restaurant,Bengaluru,Karnataka
+MER00596,Domino's 596,Restaurant,Raipur,Chhattisgarh
+MER00597,DMart 597,Supermarket,Jalandhar,Punjab
+MER00598,DMart 598,Supermarket,Aurangabad,Maharashtra
+MER00599,Pantaloons 599,Fashion,Kozhikode,Kerala
+MER00600,Reliance Trends 600,Fashion,Udaipur,Rajasthan
+MER00601,Apollo Pharmacy 601,Healthcare,Haridwar,Uttarakhand
+MER00602,More Supermarket 602,Supermarket,Raipur,Chhattisgarh
+MER00603,Spencer's 603,Supermarket,Jamshedpur,Jharkhand
+MER00604,Starbucks 604,Cafe,Durgapur,West Bengal
+MER00605,Vijay Sales 605,Electronics,Hyderabad,Telangana
+MER00606,DMart 606,Supermarket,Bhubaneswar,Odisha
+MER00607,Vijay Sales 607,Electronics,Warangal,Telangana
+MER00608,Zudio 608,Fashion,Kolhapur,Maharashtra
+MER00609,DMart 609,Supermarket,Trivandrum,Kerala
+MER00610,Lifestyle 610,Fashion,Ranchi,Jharkhand
+MER00611,McDonald's 611,Restaurant,Faridabad,Haryana
+MER00612,Zudio 612,Fashion,Kozhikode,Kerala
+MER00613,McDonald's 613,Restaurant,New Delhi,Delhi
+MER00614,Vijay Sales 614,Electronics,Patna,Bihar
+MER00615,Big Bazaar 615,Supermarket,Mysuru,Karnataka
+MER00616,Pantaloons 616,Fashion,Delhi,Delhi
+MER00617,Reliance Digital 617,Electronics,Howrah,West Bengal
+MER00618,McDonald's 618,Restaurant,Guwahati,Assam
+MER00619,Vijay Sales 619,Electronics,Bhubaneswar,Odisha
+MER00620,Apollo Pharmacy 620,Healthcare,Panaji,Goa
+MER00621,Westside 621,Fashion,Coimbatore,Tamil Nadu
+MER00622,KFC 622,Restaurant,Bengaluru,Karnataka
+MER00623,DMart 623,Supermarket,Agra,Uttar Pradesh
+MER00624,Starbucks 624,Cafe,Bhubaneswar,Odisha
+MER00625,Starbucks 625,Cafe,Jaipur,Rajasthan
+MER00626,Zudio 626,Fashion,Nizamabad,Telangana
+MER00627,Reliance Fresh 627,Supermarket,Jamshedpur,Jharkhand
+MER00628,KFC 628,Restaurant,Gaya,Bihar
+MER00629,Zudio 629,Fashion,Mangalore,Karnataka
+MER00630,Croma 630,Electronics,Mangalore,Karnataka
+MER00631,MedPlus 631,Healthcare,Jaipur,Rajasthan
+MER00632,DMart 632,Supermarket,Bilaspur,Chhattisgarh
+MER00633,Reliance Trends 633,Fashion,Gaya,Bihar
+MER00634,KFC 634,Restaurant,Raipur,Chhattisgarh
+MER00635,MedPlus 635,Healthcare,Bengaluru,Karnataka
+MER00636,Reliance Trends 636,Fashion,Haridwar,Uttarakhand
+MER00637,Croma 637,Electronics,Raipur,Chhattisgarh
+MER00638,Big Bazaar 638,Supermarket,Indore,Madhya Pradesh
+MER00639,Apollo Pharmacy 639,Healthcare,Indore,Madhya Pradesh
+MER00640,Lifestyle 640,Fashion,Gwalior,Madhya Pradesh
+MER00641,Domino's 641,Restaurant,Mumbai,Maharashtra
+MER00642,Big Bazaar 642,Supermarket,Delhi,Delhi
+MER00643,McDonald's 643,Restaurant,Indore,Madhya Pradesh
+MER00644,MedPlus 644,Healthcare,Ludhiana,Punjab
+MER00645,More Supermarket 645,Supermarket,Aurangabad,Maharashtra
+MER00646,Big Bazaar 646,Supermarket,Mysuru,Karnataka
+MER00647,Apollo Pharmacy 647,Healthcare,Haridwar,Uttarakhand
+MER00648,Domino's 648,Restaurant,Jodhpur,Rajasthan
+MER00649,Lifestyle 649,Fashion,Guwahati,Assam
+MER00650,DMart 650,Supermarket,Salem,Tamil Nadu
+MER00651,Croma 651,Electronics,Kozhikode,Kerala
+MER00652,Decathlon 652,Sports,Kochi,Kerala
+MER00653,More Supermarket 653,Supermarket,Guwahati,Assam
+MER00654,Big Bazaar 654,Supermarket,Mumbai,Maharashtra
+MER00655,Reliance Fresh 655,Supermarket,Delhi,Delhi
+MER00656,MedPlus 656,Healthcare,Hyderabad,Telangana
+MER00657,Reliance Trends 657,Fashion,Kozhikode,Kerala
+MER00658,DMart 658,Supermarket,Salem,Tamil Nadu
+MER00659,Reliance Trends 659,Fashion,New Delhi,Delhi
+MER00660,McDonald's 660,Restaurant,Dehradun,Uttarakhand
+MER00661,Decathlon 661,Sports,Bhubaneswar,Odisha
+MER00662,Zudio 662,Fashion,Gaya,Bihar
+MER00663,Reliance Digital 663,Electronics,Cuttack,Odisha
+MER00664,Pantaloons 664,Fashion,Raipur,Chhattisgarh
+MER00665,DMart 665,Supermarket,Jodhpur,Rajasthan
+MER00666,Croma 666,Electronics,Mysuru,Karnataka
+MER00667,Big Bazaar 667,Supermarket,Gurugram,Haryana
+MER00668,More Supermarket 668,Supermarket,Coimbatore,Tamil Nadu
+MER00669,Apollo Pharmacy 669,Healthcare,Agra,Uttar Pradesh
+MER00670,MedPlus 670,Healthcare,Panaji,Goa
+MER00671,Zudio 671,Fashion,Howrah,West Bengal
+MER00672,Starbucks 672,Cafe,Panaji,Goa
+MER00673,Westside 673,Fashion,Kolkata,West Bengal
+MER00674,KFC 674,Restaurant,Nashik,Maharashtra
+MER00675,DMart 675,Supermarket,Thane,Maharashtra
+MER00676,DMart 676,Supermarket,Ranchi,Jharkhand
+MER00677,KFC 677,Restaurant,Trivandrum,Kerala
+MER00678,More Supermarket 678,Supermarket,New Delhi,Delhi
+MER00679,KFC 679,Restaurant,Noida,Uttar Pradesh
+MER00680,Reliance Digital 680,Electronics,Dehradun,Uttarakhand
+MER00681,Reliance Fresh 681,Supermarket,Raipur,Chhattisgarh
+MER00682,Starbucks 682,Cafe,Coimbatore,Tamil Nadu
+MER00683,Apollo Pharmacy 683,Healthcare,Jaipur,Rajasthan
+MER00684,Lifestyle 684,Fashion,Amritsar,Punjab
+MER00685,MedPlus 685,Healthcare,Gurugram,Haryana
+MER00686,Zudio 686,Fashion,Mysuru,Karnataka
+MER00687,Reliance Digital 687,Electronics,Amritsar,Punjab
+MER00688,Pantaloons 688,Fashion,Raipur,Chhattisgarh
+MER00689,MedPlus 689,Healthcare,Amritsar,Punjab
+MER00690,Domino's 690,Restaurant,Mangalore,Karnataka
+MER00691,Vijay Sales 691,Electronics,Noida,Uttar Pradesh
+MER00692,MedPlus 692,Healthcare,New Delhi,Delhi
+MER00693,Big Bazaar 693,Supermarket,Jodhpur,Rajasthan
+MER00694,Decathlon 694,Sports,Bengaluru,Karnataka
+MER00695,Spencer's 695,Supermarket,Jaipur,Rajasthan
+MER00696,Reliance Digital 696,Electronics,Coimbatore,Tamil Nadu
+MER00697,Zudio 697,Fashion,Durgapur,West Bengal
+MER00698,Domino's 698,Restaurant,Aurangabad,Maharashtra
+MER00699,KFC 699,Restaurant,Raipur,Chhattisgarh
+MER00700,MedPlus 700,Healthcare,Hyderabad,Telangana
+MER00701,DMart 701,Supermarket,Indore,Madhya Pradesh
+MER00702,More Supermarket 702,Supermarket,Gurugram,Haryana
+MER00703,Decathlon 703,Sports,New Delhi,Delhi
+MER00704,KFC 704,Restaurant,New Delhi,Delhi
+MER00705,Reliance Trends 705,Fashion,Ahmedabad,Gujarat
+MER00706,Starbucks 706,Cafe,Raipur,Chhattisgarh
+MER00707,Westside 707,Fashion,Trivandrum,Kerala
+MER00708,Reliance Trends 708,Fashion,Vadodara,Gujarat
+MER00709,Croma 709,Electronics,Bhubaneswar,Odisha
+MER00710,Reliance Fresh 710,Supermarket,Trivandrum,Kerala
+MER00711,Westside 711,Fashion,Bengaluru,Karnataka
+MER00712,More Supermarket 712,Supermarket,Mysuru,Karnataka
+MER00713,Big Bazaar 713,Supermarket,Lucknow,Uttar Pradesh
+MER00714,Reliance Digital 714,Electronics,Rajkot,Gujarat
+MER00715,More Supermarket 715,Supermarket,Margao,Goa
+MER00716,Reliance Fresh 716,Supermarket,Raipur,Chhattisgarh
+MER00717,Big Bazaar 717,Supermarket,Bhubaneswar,Odisha
+MER00718,Reliance Fresh 718,Supermarket,Gurugram,Haryana
+MER00719,Big Bazaar 719,Supermarket,Bhubaneswar,Odisha
+MER00720,Pantaloons 720,Fashion,Thane,Maharashtra
+MER00721,KFC 721,Restaurant,Warangal,Telangana
+MER00722,Reliance Fresh 722,Supermarket,Bhubaneswar,Odisha
+MER00723,KFC 723,Restaurant,Bhubaneswar,Odisha
+MER00724,Pantaloons 724,Fashion,Faridabad,Haryana
+MER00725,DMart 725,Supermarket,Gaya,Bihar
+MER00726,Decathlon 726,Sports,Patna,Bihar
+MER00727,Big Bazaar 727,Supermarket,Salem,Tamil Nadu
+MER00728,Domino's 728,Restaurant,Patna,Bihar
+MER00729,Vijay Sales 729,Electronics,Kolhapur,Maharashtra
+MER00730,Vijay Sales 730,Electronics,Jalandhar,Punjab
+MER00731,Zudio 731,Fashion,Cuttack,Odisha
+MER00732,Spencer's 732,Supermarket,Udaipur,Rajasthan
+MER00733,Pantaloons 733,Fashion,Udaipur,Rajasthan
+MER00734,Pantaloons 734,Fashion,Thane,Maharashtra
+MER00735,Westside 735,Fashion,Kanpur,Uttar Pradesh
+MER00736,Reliance Fresh 736,Supermarket,Margao,Goa
+MER00737,Spencer's 737,Supermarket,Kochi,Kerala
+MER00738,Reliance Fresh 738,Supermarket,Haridwar,Uttarakhand
+MER00739,Vijay Sales 739,Electronics,Kochi,Kerala
+MER00740,MedPlus 740,Healthcare,Trivandrum,Kerala
+MER00741,Reliance Fresh 741,Supermarket,Chennai,Tamil Nadu
+MER00742,McDonald's 742,Restaurant,Jodhpur,Rajasthan
+MER00743,McDonald's 743,Restaurant,Udaipur,Rajasthan
+MER00744,McDonald's 744,Restaurant,Kolkata,West Bengal
+MER00745,Reliance Digital 745,Electronics,Amritsar,Punjab
+MER00746,DMart 746,Supermarket,Chennai,Tamil Nadu
+MER00747,KFC 747,Restaurant,Bengaluru,Karnataka
+MER00748,Vijay Sales 748,Electronics,Raipur,Chhattisgarh
+MER00749,Reliance Digital 749,Electronics,Rajkot,Gujarat
+MER00750,Westside 750,Fashion,Mysuru,Karnataka
+MER00751,Reliance Fresh 751,Supermarket,Coimbatore,Tamil Nadu
+MER00752,Big Bazaar 752,Supermarket,Durgapur,West Bengal
+MER00753,McDonald's 753,Restaurant,Raipur,Chhattisgarh
+MER00754,KFC 754,Restaurant,Raipur,Chhattisgarh
+MER00755,Vijay Sales 755,Electronics,Udaipur,Rajasthan
+MER00756,Apollo Pharmacy 756,Healthcare,Howrah,West Bengal
+MER00757,Westside 757,Fashion,Delhi,Delhi
+MER00758,Vijay Sales 758,Electronics,Kolhapur,Maharashtra
+MER00759,More Supermarket 759,Supermarket,Gurugram,Haryana
+MER00760,Zudio 760,Fashion,Bhubaneswar,Odisha
+MER00761,Reliance Digital 761,Electronics,Trivandrum,Kerala
+MER00762,Zudio 762,Fashion,Thane,Maharashtra
+MER00763,More Supermarket 763,Supermarket,Patna,Bihar
+MER00764,Vijay Sales 764,Electronics,Howrah,West Bengal
+MER00765,More Supermarket 765,Supermarket,Hyderabad,Telangana
+MER00766,Reliance Fresh 766,Supermarket,Guwahati,Assam
+MER00767,Pantaloons 767,Fashion,Haridwar,Uttarakhand
+MER00768,McDonald's 768,Restaurant,Guwahati,Assam
+MER00769,Starbucks 769,Cafe,Jaipur,Rajasthan
+MER00770,Zudio 770,Fashion,Bengaluru,Karnataka
+MER00771,Croma 771,Electronics,Salem,Tamil Nadu
+MER00772,Westside 772,Fashion,Patna,Bihar
+MER00773,Apollo Pharmacy 773,Healthcare,Dehradun,Uttarakhand
+MER00774,Apollo Pharmacy 774,Healthcare,Faridabad,Haryana
+MER00775,Reliance Fresh 775,Supermarket,Gurugram,Haryana
+MER00776,Big Bazaar 776,Supermarket,Raipur,Chhattisgarh
+MER00777,Decathlon 777,Sports,Kochi,Kerala
+MER00778,Spencer's 778,Supermarket,Coimbatore,Tamil Nadu
+MER00779,Westside 779,Fashion,Gurugram,Haryana
+MER00780,More Supermarket 780,Supermarket,Haridwar,Uttarakhand
+MER00781,Zudio 781,Fashion,Bengaluru,Karnataka
+MER00782,Vijay Sales 782,Electronics,Surat,Gujarat
+MER00783,Reliance Trends 783,Fashion,Jamshedpur,Jharkhand
+MER00784,KFC 784,Restaurant,Bilaspur,Chhattisgarh
+MER00785,Westside 785,Fashion,Gwalior,Madhya Pradesh
+MER00786,DMart 786,Supermarket,Faridabad,Haryana
+MER00787,Pantaloons 787,Fashion,Durgapur,West Bengal
+MER00788,Reliance Trends 788,Fashion,Guwahati,Assam
+MER00789,Reliance Trends 789,Fashion,Guwahati,Assam
+MER00790,Pantaloons 790,Fashion,Gurugram,Haryana
+MER00791,Pantaloons 791,Fashion,Faridabad,Haryana
+MER00792,More Supermarket 792,Supermarket,Hyderabad,Telangana
+MER00793,MedPlus 793,Healthcare,Margao,Goa
+MER00794,Lifestyle 794,Fashion,Agra,Uttar Pradesh
+MER00795,More Supermarket 795,Supermarket,Jalandhar,Punjab
+MER00796,DMart 796,Supermarket,Haridwar,Uttarakhand
+MER00797,More Supermarket 797,Supermarket,Gwalior,Madhya Pradesh
+MER00798,Reliance Trends 798,Fashion,Delhi,Delhi
+MER00799,More Supermarket 799,Supermarket,Dehradun,Uttarakhand
+MER00800,Vijay Sales 800,Electronics,Lucknow,Uttar Pradesh
+MER00801,Starbucks 801,Cafe,Haridwar,Uttarakhand
+MER00802,Pantaloons 802,Fashion,Bhopal,Madhya Pradesh
+MER00803,Decathlon 803,Sports,Amritsar,Punjab
+MER00804,Reliance Digital 804,Electronics,Bilaspur,Chhattisgarh
+MER00805,KFC 805,Restaurant,Kozhikode,Kerala
+MER00806,Westside 806,Fashion,Guwahati,Assam
+MER00807,Croma 807,Electronics,Faridabad,Haryana
+MER00808,Zudio 808,Fashion,Madurai,Tamil Nadu
+MER00809,Spencer's 809,Supermarket,Udaipur,Rajasthan
+MER00810,Croma 810,Electronics,Jamshedpur,Jharkhand
+MER00811,Reliance Digital 811,Electronics,Hubli,Karnataka
+MER00812,Lifestyle 812,Fashion,Bhopal,Madhya Pradesh
+MER00813,KFC 813,Restaurant,Udaipur,Rajasthan
+MER00814,Croma 814,Electronics,Faridabad,Haryana
+MER00815,Zudio 815,Fashion,Guwahati,Assam
+MER00816,MedPlus 816,Healthcare,Surat,Gujarat
+MER00817,Apollo Pharmacy 817,Healthcare,Guwahati,Assam
+MER00818,Lifestyle 818,Fashion,Agra,Uttar Pradesh
+MER00819,More Supermarket 819,Supermarket,Kanpur,Uttar Pradesh
+MER00820,Reliance Digital 820,Electronics,Lucknow,Uttar Pradesh
+MER00821,Decathlon 821,Sports,Dehradun,Uttarakhand
+MER00822,Croma 822,Electronics,Mysuru,Karnataka
+MER00823,Starbucks 823,Cafe,Indore,Madhya Pradesh
+MER00824,Zudio 824,Fashion,Rajkot,Gujarat
+MER00825,Zudio 825,Fashion,Patna,Bihar
+MER00826,Domino's 826,Restaurant,Ghaziabad,Uttar Pradesh
+MER00827,Starbucks 827,Cafe,Bhopal,Madhya Pradesh
+MER00828,Decathlon 828,Sports,Margao,Goa
+MER00829,Big Bazaar 829,Supermarket,Dehradun,Uttarakhand
+MER00830,Vijay Sales 830,Electronics,Jalandhar,Punjab
+MER00831,Reliance Digital 831,Electronics,Raipur,Chhattisgarh
+MER00832,Vijay Sales 832,Electronics,Ludhiana,Punjab
+MER00833,Pantaloons 833,Fashion,Mysuru,Karnataka
+MER00834,Croma 834,Electronics,Ranchi,Jharkhand
+MER00835,Vijay Sales 835,Electronics,Gurugram,Haryana
+MER00836,Decathlon 836,Sports,Jodhpur,Rajasthan
+MER00837,Decathlon 837,Sports,Margao,Goa
+MER00838,DMart 838,Supermarket,Lucknow,Uttar Pradesh
+MER00839,Domino's 839,Restaurant,Faridabad,Haryana
+MER00840,Croma 840,Electronics,Raipur,Chhattisgarh
+MER00841,McDonald's 841,Restaurant,Dehradun,Uttarakhand
+MER00842,Reliance Trends 842,Fashion,Lucknow,Uttar Pradesh
+MER00843,Reliance Trends 843,Fashion,Gurugram,Haryana
+MER00844,Westside 844,Fashion,Indore,Madhya Pradesh
+MER00845,DMart 845,Supermarket,Raipur,Chhattisgarh
+MER00846,Reliance Fresh 846,Supermarket,New Delhi,Delhi
+MER00847,Westside 847,Fashion,Margao,Goa
+MER00848,DMart 848,Supermarket,Gaya,Bihar
+MER00849,Westside 849,Fashion,Kolkata,West Bengal
+MER00850,Reliance Fresh 850,Supermarket,Bilaspur,Chhattisgarh
+MER00851,Spencer's 851,Supermarket,Faridabad,Haryana
+MER00852,Spencer's 852,Supermarket,Indore,Madhya Pradesh
+MER00853,Domino's 853,Restaurant,Gurugram,Haryana
+MER00854,DMart 854,Supermarket,Jalandhar,Punjab
+MER00855,Reliance Trends 855,Fashion,Gurugram,Haryana
+MER00856,MedPlus 856,Healthcare,Salem,Tamil Nadu
+MER00857,Pantaloons 857,Fashion,Kochi,Kerala
+MER00858,Westside 858,Fashion,Patna,Bihar
+MER00859,Reliance Trends 859,Fashion,Bilaspur,Chhattisgarh
+MER00860,Apollo Pharmacy 860,Healthcare,Dehradun,Uttarakhand
+MER00861,Spencer's 861,Supermarket,Gurugram,Haryana
+MER00862,Decathlon 862,Sports,Margao,Goa
+MER00863,McDonald's 863,Restaurant,Margao,Goa
+MER00864,McDonald's 864,Restaurant,Hyderabad,Telangana
+MER00865,KFC 865,Restaurant,Jalandhar,Punjab
+MER00866,McDonald's 866,Restaurant,Udaipur,Rajasthan
+MER00867,KFC 867,Restaurant,Faridabad,Haryana
+MER00868,Spencer's 868,Supermarket,Kanpur,Uttar Pradesh
+MER00869,Big Bazaar 869,Supermarket,Mumbai,Maharashtra
+MER00870,KFC 870,Restaurant,Rajkot,Gujarat
+MER00871,MedPlus 871,Healthcare,Kochi,Kerala
+MER00872,Spencer's 872,Supermarket,Jodhpur,Rajasthan
+MER00873,More Supermarket 873,Supermarket,Chennai,Tamil Nadu
+MER00874,KFC 874,Restaurant,Guwahati,Assam
+MER00875,Domino's 875,Restaurant,Ranchi,Jharkhand
+MER00876,McDonald's 876,Restaurant,Guwahati,Assam
+MER00877,Domino's 877,Restaurant,Ranchi,Jharkhand
+MER00878,KFC 878,Restaurant,Amritsar,Punjab
+MER00879,Zudio 879,Fashion,Howrah,West Bengal
+MER00880,DMart 880,Supermarket,Faridabad,Haryana
+MER00881,Reliance Digital 881,Electronics,Mangalore,Karnataka
+MER00882,Reliance Trends 882,Fashion,Amritsar,Punjab
+MER00883,McDonald's 883,Restaurant,Guwahati,Assam
+MER00884,Croma 884,Electronics,Howrah,West Bengal
+MER00885,Pantaloons 885,Fashion,Kanpur,Uttar Pradesh
+MER00886,More Supermarket 886,Supermarket,Cuttack,Odisha
+MER00887,Reliance Digital 887,Electronics,Durgapur,West Bengal
+MER00888,Reliance Digital 888,Electronics,Guwahati,Assam
+MER00889,Westside 889,Fashion,Mangalore,Karnataka
+MER00890,Domino's 890,Restaurant,New Delhi,Delhi
+MER00891,Vijay Sales 891,Electronics,Cuttack,Odisha
+MER00892,Decathlon 892,Sports,Kozhikode,Kerala
+MER00893,DMart 893,Supermarket,Kozhikode,Kerala
+MER00894,McDonald's 894,Restaurant,Chennai,Tamil Nadu
+MER00895,Westside 895,Fashion,Warangal,Telangana
+MER00896,More Supermarket 896,Supermarket,Madurai,Tamil Nadu
+MER00897,Croma 897,Electronics,Jaipur,Rajasthan
+MER00898,More Supermarket 898,Supermarket,Guwahati,Assam
+MER00899,Domino's 899,Restaurant,Bhubaneswar,Odisha
+MER00900,KFC 900,Restaurant,Gurugram,Haryana
+MER00901,Vijay Sales 901,Electronics,Guwahati,Assam
+MER00902,Domino's 902,Restaurant,Warangal,Telangana
+MER00903,KFC 903,Restaurant,Jamshedpur,Jharkhand
+MER00904,Westside 904,Fashion,Gurugram,Haryana
+MER00905,McDonald's 905,Restaurant,Jamshedpur,Jharkhand
+MER00906,Spencer's 906,Supermarket,Bhubaneswar,Odisha
+MER00907,Starbucks 907,Cafe,Warangal,Telangana
+MER00908,MedPlus 908,Healthcare,Gurugram,Haryana
+MER00909,Lifestyle 909,Fashion,Kolhapur,Maharashtra
+MER00910,Apollo Pharmacy 910,Healthcare,Raipur,Chhattisgarh
+MER00911,Big Bazaar 911,Supermarket,Trivandrum,Kerala
+MER00912,Pantaloons 912,Fashion,Gaya,Bihar
+MER00913,Spencer's 913,Supermarket,Rajkot,Gujarat
+MER00914,Domino's 914,Restaurant,Aurangabad,Maharashtra
+MER00915,Apollo Pharmacy 915,Healthcare,Raipur,Chhattisgarh
+MER00916,DMart 916,Supermarket,Jalandhar,Punjab
+MER00917,Reliance Fresh 917,Supermarket,Haridwar,Uttarakhand
+MER00918,MedPlus 918,Healthcare,Cuttack,Odisha
+MER00919,Reliance Digital 919,Electronics,Bhubaneswar,Odisha
+MER00920,Big Bazaar 920,Supermarket,Chennai,Tamil Nadu
+MER00921,Lifestyle 921,Fashion,Durgapur,West Bengal
+MER00922,Starbucks 922,Cafe,Gaya,Bihar
+MER00923,Reliance Trends 923,Fashion,Kolkata,West Bengal
+MER00924,More Supermarket 924,Supermarket,Kolkata,West Bengal
+MER00925,KFC 925,Restaurant,Dehradun,Uttarakhand
+MER00926,McDonald's 926,Restaurant,Faridabad,Haryana
+MER00927,Zudio 927,Fashion,Bhopal,Madhya Pradesh
+MER00928,MedPlus 928,Healthcare,Faridabad,Haryana
+MER00929,Decathlon 929,Sports,Gurugram,Haryana
+MER00930,Pantaloons 930,Fashion,Gwalior,Madhya Pradesh
+MER00931,Pantaloons 931,Fashion,Nizamabad,Telangana
+MER00932,Decathlon 932,Sports,Lucknow,Uttar Pradesh
+MER00933,KFC 933,Restaurant,New Delhi,Delhi
+MER00934,Spencer's 934,Supermarket,Bilaspur,Chhattisgarh
+MER00935,Reliance Trends 935,Fashion,Madurai,Tamil Nadu
+MER00936,Apollo Pharmacy 936,Healthcare,Vadodara,Gujarat
+MER00937,Croma 937,Electronics,Madurai,Tamil Nadu
+MER00938,Lifestyle 938,Fashion,Guwahati,Assam
+MER00939,Reliance Fresh 939,Supermarket,Guwahati,Assam
+MER00940,Pantaloons 940,Fashion,Cuttack,Odisha
+MER00941,McDonald's 941,Restaurant,Haridwar,Uttarakhand
+MER00942,KFC 942,Restaurant,Guwahati,Assam
+MER00943,Reliance Fresh 943,Supermarket,Faridabad,Haryana
+MER00944,Spencer's 944,Supermarket,Gurugram,Haryana
+MER00945,Croma 945,Electronics,Jamshedpur,Jharkhand
+MER00946,Starbucks 946,Cafe,Lucknow,Uttar Pradesh
+MER00947,Decathlon 947,Sports,Ahmedabad,Gujarat
+MER00948,KFC 948,Restaurant,Hyderabad,Telangana
+MER00949,Lifestyle 949,Fashion,Warangal,Telangana
+MER00950,Apollo Pharmacy 950,Healthcare,Vadodara,Gujarat
+MER00951,Zudio 951,Fashion,Aurangabad,Maharashtra
+MER00952,MedPlus 952,Healthcare,Coimbatore,Tamil Nadu
+MER00953,Reliance Fresh 953,Supermarket,Vadodara,Gujarat
+MER00954,Apollo Pharmacy 954,Healthcare,Mysuru,Karnataka
+MER00955,Starbucks 955,Cafe,Jamshedpur,Jharkhand
+MER00956,DMart 956,Supermarket,Delhi,Delhi
+MER00957,Reliance Fresh 957,Supermarket,Guwahati,Assam
+MER00958,Croma 958,Electronics,Amritsar,Punjab
+MER00959,Pantaloons 959,Fashion,Ranchi,Jharkhand
+MER00960,DMart 960,Supermarket,Margao,Goa
+MER00961,Vijay Sales 961,Electronics,Haridwar,Uttarakhand
+MER00962,Pantaloons 962,Fashion,Rajkot,Gujarat
+MER00963,Lifestyle 963,Fashion,Ghaziabad,Uttar Pradesh
+MER00964,Pantaloons 964,Fashion,Hyderabad,Telangana
+MER00965,MedPlus 965,Healthcare,Bhopal,Madhya Pradesh
+MER00966,Decathlon 966,Sports,Patna,Bihar
+MER00967,Apollo Pharmacy 967,Healthcare,Lucknow,Uttar Pradesh
+MER00968,Westside 968,Fashion,Panaji,Goa
+MER00969,Big Bazaar 969,Supermarket,Surat,Gujarat
+MER00970,Zudio 970,Fashion,Kolhapur,Maharashtra
+MER00971,Vijay Sales 971,Electronics,Udaipur,Rajasthan
+MER00972,Spencer's 972,Supermarket,Gurugram,Haryana
+MER00973,Westside 973,Fashion,Delhi,Delhi
+MER00974,Reliance Fresh 974,Supermarket,Nizamabad,Telangana
+MER00975,KFC 975,Restaurant,Panaji,Goa
+MER00976,Pantaloons 976,Fashion,Udaipur,Rajasthan
+MER00977,Pantaloons 977,Fashion,Nizamabad,Telangana
+MER00978,More Supermarket 978,Supermarket,Margao,Goa
+MER00979,More Supermarket 979,Supermarket,Ranchi,Jharkhand
+MER00980,McDonald's 980,Restaurant,Kozhikode,Kerala
+MER00981,KFC 981,Restaurant,Kanpur,Uttar Pradesh
+MER00982,Decathlon 982,Sports,Guwahati,Assam
+MER00983,Westside 983,Fashion,Delhi,Delhi
+MER00984,Apollo Pharmacy 984,Healthcare,Jamshedpur,Jharkhand
+MER00985,Domino's 985,Restaurant,Chennai,Tamil Nadu
+MER00986,Croma 986,Electronics,Kolkata,West Bengal
+MER00987,Reliance Fresh 987,Supermarket,Mysuru,Karnataka
+MER00988,McDonald's 988,Restaurant,Kanpur,Uttar Pradesh
+MER00989,Starbucks 989,Cafe,Vadodara,Gujarat
+MER00990,KFC 990,Restaurant,Bilaspur,Chhattisgarh
+MER00991,Starbucks 991,Cafe,Bhopal,Madhya Pradesh
+MER00992,Lifestyle 992,Fashion,Howrah,West Bengal
+MER00993,Pantaloons 993,Fashion,Cuttack,Odisha
+MER00994,KFC 994,Restaurant,Gurugram,Haryana
+MER00995,Pantaloons 995,Fashion,Howrah,West Bengal
+MER00996,Reliance Fresh 996,Supermarket,Margao,Goa
+MER00997,DMart 997,Supermarket,Trivandrum,Kerala
+MER00998,Croma 998,Electronics,Salem,Tamil Nadu
+MER00999,Starbucks 999,Cafe,Delhi,Delhi
+MER01000,KFC 1000,Restaurant,Durgapur,West Bengal
